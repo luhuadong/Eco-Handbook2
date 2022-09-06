@@ -1,0 +1,16 @@
+{
+  "name": "Eco-Handbook2",
+  "version": "1.0.0",
+  "description": "Eco-Handbook Edition 2",
+  "main": "index.js",
+  "repository": "git@github.com:luhuadong/Eco-Handbook2.git",
+  "author": "luhuadong <luhuadong@163.com>",
+  "license": "CC-BY-NC-ND",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
